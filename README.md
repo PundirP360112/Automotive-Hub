@@ -38,7 +38,7 @@ Automotive-Hub/
 How to Run
 1. Clone the repository
 
-git clone [https://github.com/your-username/automotive-hub.git](https://github.com/your-username/automotive-hub.git)
+git clone [https://github.com/your-username/automotive-hub.git](https://github.com/PundirP360112/Automotive-Hub)
 
 2. Navigate to the directory
 
