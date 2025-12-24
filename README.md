@@ -45,6 +45,6 @@ git clone [https://github.com/your-username/automotive-hub.git](https://github.c
 cd automotive-hub
 
 3. Launch4
-4. 
+ 
 Simply double-click index.html to open it in your browser.
 Optional: Use the "Live Server" extension in VS Code for the best development experience.
